@@ -1,0 +1,9 @@
+<!-- flower-1.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#FFFFFF"/>
+  <g transform="translate(50,40)">
+    <circle cx="120" cy="90" r="60" fill="#F8BBD0"/>
+    <circle cx="190" cy="120" r="40" fill="#FCE4EC"/>
+    <path data-leaf d="M60,210 C120,160 180,210 240,180 C200,220 140,240 60,210 Z"/>
+  </g>
+</svg>
