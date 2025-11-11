@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-label="Нежная абстрактная композиция">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#F8BBD0"/>
+      <stop offset="1" stop-color="#C8E6C9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="#FFF6F8"/>
+  <circle cx="620" cy="160" r="110" fill="url(#g1)" opacity="0.55"/>
+  <circle cx="220" cy="340" r="150" fill="#C8E6C9" opacity="0.35"/>
+  <g transform="translate(120,120) scale(1.1)">
+    <path data-leaf d="M60,140 C90,40 170,20 220,90 C170,120 120,160 60,140 Z" opacity="0.85"/>
+    <path data-ink d="M250,120 C230,70 260,50 300,60 C320,120 300,150 250,120 Z" opacity="0.9"/>
+  </g>
+</svg>
