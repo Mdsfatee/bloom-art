@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
-  <rect width="400" height="300" fill="#FFFFFF"/>
-  <g transform="translate(48,32)">
-    <circle cx="128" cy="112" r="56" fill="#F8BBD0"/>
-    <circle cx="212" cy="148" r="48" fill="#FCE4EC"/>
-    <path data-leaf d="M48,228 C120,186 200,228 272,208 C216,246 140,266 48,228 Z"/>
-  </g>
-</svg>
